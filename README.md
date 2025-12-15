@@ -4,6 +4,7 @@ Hello, my name is Rume. I am data analyst by profession
 
 ## Skills
 Data Visualization - Power Bi, Excel, SQL, and Python
+![Image](Oil Rig Project.jpeg)
 Data Analytics Training
 Course Content Creation
 
